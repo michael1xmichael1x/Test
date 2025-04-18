@@ -1,1 +1,5 @@
-print("Working")
+local games = {
+[17574618959] = "https://raw.githubusercontent.com/michael1xmichael1x/Test2/refs/heads/main/Testing%202"
+}
+
+return games
